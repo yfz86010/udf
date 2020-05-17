@@ -11,7 +11,7 @@
     },
     "files": [
         "README.md",
-        "Croco-Kit.ts",
+        "main.ts",
         "_locales/zh-cn/Croco-Kit-strings.json",
         "_locales/zh-tw/Croco-Kit-strings.json"
     ],
