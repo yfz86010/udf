@@ -1,6 +1,6 @@
 {
     "name": "Crocokit_Startbit",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Exsention for Microbit",
     "license": "MIT",
     "dependencies": {
